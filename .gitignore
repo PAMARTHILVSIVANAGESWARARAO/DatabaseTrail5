@@ -1,0 +1,19 @@
+# Ignore environment variable files
+.env
+
+# Ignore MongoDB data text file
+mongodbdat.txt
+
+# Ignore virtual environment folder
+venv/
+
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor files
+.vscode/
+.idea/
